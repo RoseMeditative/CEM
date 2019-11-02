@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-_variables",
+      "appliesTo": "scss/base/_variables.scss",
+      "type": "launch"
+    }
+  ]
+}
