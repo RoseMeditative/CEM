@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css",
     "\\img",
-    "\\img\\logos",
-    "\\img\\team"
+    "\\img\\download",
+    "\\img\\logos"
   ],
-  "SelectedNode": "\\img\\team\\Jeremy.jpeg",
+  "SelectedNode": "\\img\\logos\\LogoMassy.svg",
   "PreviewInSolutionExplorer": false
 }
